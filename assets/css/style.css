@@ -55,7 +55,7 @@ body{
     text-align: center;
   }
   
-  #Me{
+  #Main{
 
     background-color: #ffffff;
     position: relative;
@@ -115,3 +115,11 @@ body{
       font-family: Georgia, 'Times New Roman', Times, serif;
       color: #4aaaa5;
   }
+
+  .gallery {
+    margin: 5px;
+    float: left;
+    width: 180px;
+    text-align: center;
+    padding: 10px;
+}
