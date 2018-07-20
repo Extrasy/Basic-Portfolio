@@ -103,6 +103,11 @@ body{
       background: #4aaaa5;
 
   }
+  #badges{
+    float: left;
+    position: fixed;
+    top: 200px;
+  }
   
   p{
       color: #777777;
